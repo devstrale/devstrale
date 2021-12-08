@@ -1,0 +1,3 @@
+- 👋 Hi, I’m @devstrale
+- 👀 I’m interested in developing
+- 🌱 I’m currently learning JavaScript
